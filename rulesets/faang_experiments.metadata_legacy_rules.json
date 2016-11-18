@@ -226,7 +226,7 @@
           "name": "chip protocol",
           "description": "Link to the ChIP protocol used",
           "type": "uri_value"
-        },
+        }
       ]
     },
     {
@@ -321,7 +321,7 @@
             {
               "ontology_name": "EFO",
               "term_iri": "http://purl.obolibrary.org/obo/CHEBI_33697"
-            },
+            }
           ]
         },
         {
@@ -407,7 +407,7 @@
               "ontology_name": "SO",
               "term_iri": "http://purl.obolibrary.org/obo/SO_0001747",
               "allow_descendants": false
-            },
+            }
           ]
         },
         {
@@ -438,7 +438,7 @@
               "ontology_name": "SO",
               "term_iri": "http://purl.obolibrary.org/obo/SO_0001747",
               "allow_descendants": false
-            },
+            }
           ]
         },
         {
