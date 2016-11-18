@@ -466,7 +466,7 @@
           "type": "ontology_text",
           "valid_terms": [
             {
-              "ontology_name": "OBI",
+              "ontology_name": "GO",
               "term_iri": "http://purl.obolibrary.org/obo/GO_0000785",
               "allow_descendants": false
             }
